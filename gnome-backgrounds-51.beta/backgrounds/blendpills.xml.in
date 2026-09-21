@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<!DOCTYPE wallpapers SYSTEM "gnome-wp-list.dtd">
+<wallpapers>
+  <wallpaper deleted="false">
+    <name>Blendpills</name>
+    <filename>@BACKGROUNDDIR@/blendpills-l.jxl</filename>
+    <filename-dark>@BACKGROUNDDIR@/blendpills-d.jxl</filename-dark>
+    <options>zoom</options>
+    <shade_type>solid</shade_type>
+    <pcolor>#BE9F4D</pcolor>
+    <scolor>#8A4B61</scolor>
+  </wallpaper>
+</wallpapers>
